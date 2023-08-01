@@ -1,7 +1,3 @@
-// Name: Faruk
-// Surname: KAPLAN
-// Student ID: 21050111026
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -123,4 +119,3 @@ int main()
     
     return 0;
 }
-// 1,319 max one
